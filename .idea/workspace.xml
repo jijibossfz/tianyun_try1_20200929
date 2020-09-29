@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f7645d9-0d65-4fcc-8b95-414efc6bd0b2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/extra_apps" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/extra_apps/utils" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/extra_apps/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra_apps/utils/email_send.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra_apps/utils/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra_apps/utils/res_email.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tianyun_try1$try__1_.coverage" NAME="try (1) Coverage Results" MODIFIED="1569227001836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tianyun_try1$try.coverage" NAME="try Coverage Results" MODIFIED="1567059136450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/use_rdkit" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c366d46a-f0f4-431a-a67e-6fdacc99d87a" />
+  <component name="ProjectId" id="1eL1wZblWulaLSCF7t7n3YdnBEE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../anaconda3/envs/tianyun_try1/lib/python3.7/site-packages" />
+      <recent name="$PROJECT_DIR$/tianyun_try1" />
+      <recent name="$PROJECT_DIR$/use_rdkit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.tianyun_try1">
+    <configuration name="try (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tianyun_try1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tianyun_try1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/use_rdkit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_rdkit/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tianyun_try1" type="Python.DjangoServer" factoryName="Django server" singleton="true">
+      <module name="tianyun_try1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="tianyun_try1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="9003" />
+      <option name="host" value="192.168.1.138" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.tianyun_try1" />
+      <item itemvalue="Python.try" />
+      <item itemvalue="Python.try (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.try (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">$PROJECT_DIR$</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f7645d9-0d65-4fcc-8b95-414efc6bd0b2" name="Default" comment="" />
+      <created>1567047720435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567047720435</updated>
+      <workItem from="1594086299336" duration="1779000" />
+      <workItem from="1594802246845" duration="322000" />
+      <workItem from="1594803479522" duration="2672000" />
+      <workItem from="1595216269330" duration="1155000" />
+      <workItem from="1595762601227" duration="118000" />
+      <workItem from="1596355652450" duration="693000" />
+      <workItem from="1596594624759" duration="616000" />
+      <workItem from="1597112320363" duration="1271000" />
+      <workItem from="1597647828870" duration="431000" />
+      <workItem from="1597884834876" duration="627000" />
+      <workItem from="1598490267794" duration="2837000" />
+      <workItem from="1598604404234" duration="597000" />
+      <workItem from="1598843516132" duration="141000" />
+      <workItem from="1599093713064" duration="374000" />
+      <workItem from="1599111703906" duration="63000" />
+      <workItem from="1599112132108" duration="8929000" />
+      <workItem from="1599219525010" duration="29000" />
+      <workItem from="1599442075706" duration="27000" />
+      <workItem from="1599616225280" duration="9137000" />
+      <workItem from="1599698349802" duration="3389000" />
+      <workItem from="1599812617950" duration="610000" />
+      <workItem from="1600047294460" duration="103000" />
+      <workItem from="1600094835224" duration="653000" />
+      <workItem from="1600430273984" duration="54000" />
+      <workItem from="1600649842086" duration="3318000" />
+      <workItem from="1600844512419" duration="1213000" />
+      <workItem from="1600913041724" duration="2925000" />
+      <workItem from="1601014876657" duration="1329000" />
+      <workItem from="1601340056897" duration="3195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="99" width="1272" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598577475573">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="357" y="99" width="1272" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1598577475573" />
+    <state x="665" y="225" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600739476244">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="665" y="225" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1600739476244" />
+    <state x="71" y="24" key="CommitChangelistDialog2" timestamp="1601346909819">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="71" y="24" key="CommitChangelistDialog2/65.24.1855.1056@65.24.1855.1056" timestamp="1601346909819" />
+    <state x="620" y="179" key="FileChooserDialogImpl" timestamp="1600047394191">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="620" y="179" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1600047394191" />
+    <state x="753" y="408" key="Github.ShareDialog" timestamp="1601346675650">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="753" y="408" key="Github.ShareDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1601346675650" />
+    <state width="1785" height="340" key="GridCell.Tab.0.bottom" timestamp="1601341538430">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1785" height="340" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1601341538430" />
+    <state width="1785" height="340" key="GridCell.Tab.0.center" timestamp="1601341538430">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1785" height="340" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1601341538430" />
+    <state width="1785" height="340" key="GridCell.Tab.0.left" timestamp="1601341538429">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1785" height="340" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1601341538429" />
+    <state width="1785" height="340" key="GridCell.Tab.0.right" timestamp="1601341538430">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1785" height="340" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1601341538430" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tianyun_try1$try.coverage" NAME="try Coverage Results" MODIFIED="1599626796039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/use_rdkit" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
